@@ -46,13 +46,3 @@ I learned core terminal skills from [Codecademy’s CLI Cheatsheet](https://www.
 
 >  Mastering the terminal is key to becoming an efficient developer.
 
----
-
-##  Let's Connect!
-
-If you're into clean code, great documentation, or just love JavaScript like I do, feel free to connect!
-
--  [Portfolio Coming Soon]
--  thekra@example.com
--  [LinkedIn](#)
-
